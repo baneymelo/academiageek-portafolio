@@ -1,0 +1,118 @@
+.data {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 38.0px;
+  min-height: 424px;
+  position: relative;
+  width: 703px;
+}
+.hero {
+  align-items: center;
+  display: flex;
+  height: 622px;
+  min-width: 1366px;
+  padding: 0 72px;
+  background: var(--cinder);
+}
+.img {
+  height: 462px;
+  margin-left: 24px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  width: 495px;
+}
+.text-1 {
+  text-align: start;
+  color: var(--white);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  letter-spacing: 0.64px;
+  line-height: 80px;
+  min-height: 160px;
+  mix-blend-mode: normal;
+  width: 705px;
+}
+.text-2 {
+  text-align: start;
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-top: 32px;
+  min-height: 80px;
+  mix-blend-mode: normal;
+  width: 728px;
+}
+.iconarrow-down {
+  align-items: flex-end;
+  display: flex;
+  height: 56px;
+  margin-top: 96px;
+  mix-blend-mode: normal;
+  padding: 8.8px 9.0px;
+  width: 56px;
+}
+.overlap-group {
+  height: 38px;
+  position: relative;
+  width: 38px;
+}
+.vector {
+  height: 38px;
+  left: 16px;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+.vector-1 {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 16px;
+  width: 38px;
+}
+
+
+.hello-cont{
+  background: var(--cinder);
+}
+
+.hello-text{
+  text-align: start;
+  margin-left: 10px;
+}
+
+.hello-text > h1 {
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-xxxl);
+  color: white;
+}
+.hello-text > span {
+  font-family: 'Arial';
+  font-size: var(--font-size-l);
+  color: var(--spun-pearl);
+}
+
+.hello-button{
+  display: flex;
+  align-items: flex-start;
+  padding-left: 10px;
+}
+
+.hello-button > a > img {
+  width: 25px;
+  color: var(--sunset-orange);
+}
+
+.hello-img > img{
+  height: 462px;
+  margin-left: 24px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  width: 495px;
+}
+
+.general-div{
+  margin: 0 50px;
+  padding-top: 50px;
+}

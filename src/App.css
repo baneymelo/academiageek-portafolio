@@ -1,0 +1,134 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Lora:400,700|Nunito:700");
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --cinder
+: rgba(15, 14, 23, 1);
+  --spun-pearl
+: rgba(167, 169, 190, 1);
+  --sunset-orange
+: #f25f4c;
+  --flamenco
+: rgba(255, 137, 6, 1);
+  --white
+: rgba(255, 255, 254, 1);
+
+  --font-size-xs
+: 16px;
+  --font-size-s
+: 20px;
+  --font-size-m
+: 24px;
+  --font-size-l
+: 32px;
+  --font-size-xl
+: 40px;
+  --font-size-xxl
+: 48px;
+  --font-size-xxxl
+: 64px;
+
+  --font-family-impact-regular
+: "Impact-Regular";
+  --font-family-lora
+: "Lora";
+  --font-family-nunito
+: "Nunito";
+}
+.nunito-bold-white-48px
+ {
+  color: var(--white);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.nunito-bold-cinder-48px
+ {
+  color: var(--cinder);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.nunito-bold-white-24px
+ {
+  color: var(--white);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  font-style: normal;
+}
+.nunito-bold-white-16px
+ {
+  color: var(--white);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  font-style: normal;
+}
+.lora-normal-cinder-24px
+ {
+  color: var(--cinder);
+  font-family: var(--font-family-lora);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.lora-normal-white-20px
+ {
+  color: var(--white);
+  font-family: var(--font-family-lora);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  font-style: normal;
+}
+.lora-bold-sunset-orange-20px
+ {
+  color: var(--sunset-orange);
+  font-family: var(--font-family-lora);
+  font-size: var(--font-size-s);
+  font-weight: 700;
+  font-style: normal;
+}
+.lora-normal-white-24px
+ {
+  color: var(--white);
+  font-family: var(--font-family-lora);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.lora-normal-spun-pearl-24px
+ {
+  color: var(--spun-pearl);
+  font-family: var(--font-family-lora);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.nunito-bold-flamenco-16px
+ {
+  color: var(--flamenco);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  font-style: normal;
+}
+.border-2px-flamenco
+ {
+  border-width: 2px;
+  border-style: solid;
+  border-color: var(--flamenco);
+}
+.lora-normal-cinder-32px
+ {
+  color: var(--cinder);
+  font-family: var(--font-family-lora);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+ }

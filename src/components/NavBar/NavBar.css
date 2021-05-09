@@ -1,0 +1,96 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Lora:400,700|Nunito:700");
+
+@font-face {
+  font-family: "Impact-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.animaapp.com/Impact-Regular") format("truetype");
+}
+
+* {
+  box-sizing: border-box;
+}
+.button {
+  align-items: center;
+  background-color: var(--flamenco);
+  display: flex;
+  height: 48px;
+  justify-content: flex-end;
+  margin-left: 470px;
+  min-width: 206px;
+  mix-blend-mode: normal;
+  padding: 0 22px;
+}
+.button-i30116965 {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 160px;
+  mix-blend-mode: normal;
+  text-align: center;
+  white-space: nowrap;
+}
+  .header {
+    align-items: center;
+    background-color: var(--cinder);
+    display: flex;
+    height: 96px;
+    min-width: 1366px;
+    mix-blend-mode: normal;
+    padding: 0 72px;
+    position: relative;
+  }
+  .a-navbar {
+    color: white;
+    font-family: var(--font-family-lora);
+    font-size: var(--font-size-s2);
+    letter-spacing: 0;
+    line-height: 32px;
+    margin-left: 40px;
+    min-height: 34px;
+    min-width: 95px;
+    mix-blend-mode: normal;
+    text-align: center;
+    white-space: nowrap;
+    width: 95px;
+  }
+
+.a-navbar:link{
+  text-decoration: none;
+}
+
+.a-navbar:active{
+  color: var(--sunset-orange);
+}
+
+.a-navbar:hover{
+  text-decoration: underline;
+  color: var(--sunset-orange);
+
+}
+
+.rectangle-56 {
+  background-color: var(--sunset-orange);
+  height: 2px;
+  mix-blend-mode: normal;
+  width: 43px;
+}
+.sections {
+  align-items: center;
+  display: flex;
+  height: 34px;
+  min-width: 546px;
+}
+.title {
+  color: var(--white);
+  font-family: var(--font-family-impact-regular);
+  font-size: var(--font-size-m2);
+  letter-spacing: 0.24px;
+  line-height: 24px;
+  min-height: 24px;
+  min-width: 52px;
+  mix-blend-mode: normal;
+  text-align: center;
+  white-space: nowrap;
+}
