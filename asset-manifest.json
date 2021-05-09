@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/baneymelo/academiageek-portafolio/static/css/main.44714bf6.chunk.css",
-    "main.js": "/baneymelo/academiageek-portafolio/static/js/main.0794a60f.chunk.js",
-    "main.js.map": "/baneymelo/academiageek-portafolio/static/js/main.0794a60f.chunk.js.map",
-    "runtime-main.js": "/baneymelo/academiageek-portafolio/static/js/runtime-main.0e1184ad.js",
-    "runtime-main.js.map": "/baneymelo/academiageek-portafolio/static/js/runtime-main.0e1184ad.js.map",
-    "static/css/2.800be05e.chunk.css": "/baneymelo/academiageek-portafolio/static/css/2.800be05e.chunk.css",
-    "static/js/2.4426d060.chunk.js": "/baneymelo/academiageek-portafolio/static/js/2.4426d060.chunk.js",
-    "static/js/2.4426d060.chunk.js.map": "/baneymelo/academiageek-portafolio/static/js/2.4426d060.chunk.js.map",
-    "index.html": "/baneymelo/academiageek-portafolio/index.html",
-    "static/css/2.800be05e.chunk.css.map": "/baneymelo/academiageek-portafolio/static/css/2.800be05e.chunk.css.map",
-    "static/css/main.44714bf6.chunk.css.map": "/baneymelo/academiageek-portafolio/static/css/main.44714bf6.chunk.css.map",
-    "static/js/2.4426d060.chunk.js.LICENSE.txt": "/baneymelo/academiageek-portafolio/static/js/2.4426d060.chunk.js.LICENSE.txt"
+    "main.css": "/academiageek-portafolio/static/css/main.44714bf6.chunk.css",
+    "main.js": "/academiageek-portafolio/static/js/main.0794a60f.chunk.js",
+    "main.js.map": "/academiageek-portafolio/static/js/main.0794a60f.chunk.js.map",
+    "runtime-main.js": "/academiageek-portafolio/static/js/runtime-main.7ae70eee.js",
+    "runtime-main.js.map": "/academiageek-portafolio/static/js/runtime-main.7ae70eee.js.map",
+    "static/css/2.800be05e.chunk.css": "/academiageek-portafolio/static/css/2.800be05e.chunk.css",
+    "static/js/2.4426d060.chunk.js": "/academiageek-portafolio/static/js/2.4426d060.chunk.js",
+    "static/js/2.4426d060.chunk.js.map": "/academiageek-portafolio/static/js/2.4426d060.chunk.js.map",
+    "index.html": "/academiageek-portafolio/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/academiageek-portafolio/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.44714bf6.chunk.css.map": "/academiageek-portafolio/static/css/main.44714bf6.chunk.css.map",
+    "static/js/2.4426d060.chunk.js.LICENSE.txt": "/academiageek-portafolio/static/js/2.4426d060.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0e1184ad.js",
+    "static/js/runtime-main.7ae70eee.js",
     "static/css/2.800be05e.chunk.css",
     "static/js/2.4426d060.chunk.js",
     "static/css/main.44714bf6.chunk.css",
